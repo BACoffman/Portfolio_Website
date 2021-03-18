@@ -6,7 +6,7 @@ class About extends Component {
     if(this.props.data){
       var name = "Benjamin Alan Coffman";
       var profilepic= "images/"+this.props.data.image;
-      var bio = "I am a computer science student currently attending UC Davis. I have always had a passion for computers and technology and decided to take that passion and apply to Computer Science. During my time in college I’ve developed a passion for front end design and hope to take it further past college and into a future career.";
+      var bio = "I am a computer science student currently attending UC Davis. I have always had a passion for computers and technology and decided to take that passion and apply to Computer Science. During my time in college I’ve developed a passion for front end design and hope to take it further into a future career.";
       var street = "11466 Inverness Way";
       var city = "Auburn";
       var state = "CA";
