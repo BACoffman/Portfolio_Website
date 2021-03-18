@@ -7,11 +7,11 @@ class About extends Component {
       var name = "Benjamin Alan Coffman";
       var profilepic= "images/"+this.props.data.image;
       var bio = "I am a computer science student currently attending UC Davis. I have always had a passion for computers and technology and decided to take that passion and apply to Computer Science. During my time in college I’ve developed a passion for front end design and hope to take it further into a future career.";
-      var street = "11466 Inverness Way";
-      var city = "Auburn";
+      var street = "";
+      var city = "Davis";
       var state = "CA";
-      var zip = "95602";
-      var phone= "530-632-1790";
+      var zip = "95616";
+      var phone= "";
       var email = "bacoffman@ucdavis.edu";
       var resumeDownload = this.props.data.resumedownload;
     }
