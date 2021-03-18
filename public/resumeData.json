@@ -15,7 +15,7 @@
       "zip": "95616"
     },
     "website": "https://benjamin-coffman-portfolio-ntqe2.ondigitalocean.app/",
-    "resumedownload":"https://benjamin-coffman-portfolio-ntqe2.ondigitalocean.app/",
+    "resumedownload":"Benjamin Coffman Resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -104,6 +104,12 @@
         "category":"A small game made in unity where two wizards duel in a rock, paper, sciossors style system.",
         "image":"Grassy_Mountains_preview.jpg",
         "url":"https://github.com/Phat-Pat/unity-first-project.git"
+      },
+      {
+        "title":"Portfolio Website with JavaScript",
+        "category":"Website to showcase my resume and achievements, created using React, HTML, CSS, JavaScript and Json for easy customizability.",
+        "image":"web.jpg",
+        "url":"https://github.com/LordBenjamas/Portfolio_Website"
       },
       {
         "title":"Hackathon Game",
