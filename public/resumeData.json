@@ -14,8 +14,8 @@
       "state":"CA",
       "zip": "95602"
     },
-    "website": "digitalocean.com/benjaminalancoffman",
-    "resumedownload":"digitalocean.com/benjaminalancoffman",
+    "website": "https://benjamin-coffman-portfolio-ntqe2.ondigitalocean.app/",
+    "resumedownload":"https://benjamin-coffman-portfolio-ntqe2.ondigitalocean.app/",
     "social":[
       {
         "name":"linkedin",
@@ -57,6 +57,10 @@
       {
         "name":"Python",
         "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
         "name":"CSS",
